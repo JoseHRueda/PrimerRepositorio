@@ -1,2 +1,0 @@
-# PrimerRepositorio
-Clase
